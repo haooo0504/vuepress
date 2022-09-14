@@ -2,6 +2,17 @@
 layout: Links
 title: Links
 links:
+  - title: 個人作品
+    items:
+      - sitename: 後臺管理系統(VUE3+TS)
+        url: https://vuets-2157e.firebaseapp.com/
+        img: /img/in-post/project.jpg
+        desc: 實現了用戶註冊及登入、增刪改查、更改用戶資訊以及編輯器的功能。
+      - sitename: 備忘錄管理(VUE3+TS+Node.js)
+        url: https://vuets-node.firebaseapp.com/
+        img: /img/in-post/project1.jpg
+        desc: 運用Node.js(nest框架)寫用戶登入、註冊以及備忘錄增刪改查的接口。
+      
   - title: Vue
     items:
       - sitename: Vue
